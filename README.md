@@ -5,3 +5,5 @@ The project is entirely done using apple's newest UI framework "SwiftUI"
 
 The api used to fetch the data is the newsapi: https://newsapi.org
 
+## Project Demo
+![InifiniteScrollNews.gif]
